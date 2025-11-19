@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# uv
+.venv/
+uv.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Data directories
+data/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+db_config.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Output files
+*.csv
+*.json
+*.xml
+*.html
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

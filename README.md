@@ -200,8 +200,4 @@ The parser downloads from these reginfo.gov endpoints:
 
 ## License
 
-[Your license here]
-
-## Support
-
-For issues or questions, please [contact information or issue tracker]
+[dataindex.us](https://dataindex.us) code is licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)

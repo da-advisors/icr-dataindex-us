@@ -1,0 +1,16 @@
+[project]
+name = "icr-parser"
+version = "0.1.0"
+description = "PRA ICR data parser and scraper"
+requires-python = ">=3.9"
+dependencies = [
+    "psycopg2-binary>=2.9.9",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.3",
+    "python-dateutil>=2.8.2",
+    "pandas>=2.2.1",
+    "python-dotenv>=1.0.0",
+]
+
+[tool.uv]
+dev-dependencies = []
